@@ -4,7 +4,7 @@
 
 | 學號 | GitHub 帳號 | 姓名 | Email |
 | --- | ----------- | --- | --- |
-|`309551069`| `5fe6eb50c7aa19f9` | `洪佳賢` | 51sf1hgd@gmail.com |
+|`309551069`| `5fe6eb50c7aa19f9` | `洪佳賢` | 51sf1hgd[at]gmail.com |
 
 ## How to build
 
@@ -20,7 +20,7 @@
 
 ## Architecture
 
-ARM64
+`raspi3 & ARM64`
 
 ## Directory structure
 
@@ -37,3 +37,6 @@ lab7: File System Meets Hardware
 lab8: Virtual Memory
 test: load kernel images through UART
 ```
+
+## Ref
+https://grasslab.github.io/NYCU_Operating_System_Capstone/index.html
